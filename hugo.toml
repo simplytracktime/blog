@@ -1,0 +1,4 @@
+baseURL = 'http://simplytracktime.com/'
+languageCode = 'en-us'
+title = 'Simply Track Time'
+theme = 'ananke'
