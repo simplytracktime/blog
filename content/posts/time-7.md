@@ -1,7 +1,7 @@
 ---
 title: 'Time 7'
 date: 2023-03-06T21:39:07+12:00
-draft: true
+draft: false
 ---
 
 ## The physics of time.

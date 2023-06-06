@@ -1,7 +1,7 @@
 ---
 title: 'Time 8'
 date: 2023-03-12T21:39:10+12:00
-draft: true
+draft: false
 ---
 
 ## Getting things done

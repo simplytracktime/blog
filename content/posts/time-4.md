@@ -1,7 +1,7 @@
 ---
 title: 'Time 4'
 date: 2023-02-14T21:38:56+12:00
-draft: true
+draft: false
 ---
 
 ## Treating uni like a 9-5.

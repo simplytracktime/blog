@@ -1,7 +1,7 @@
 ---
 title: 'Time 1'
 date: 2023-02-14T21:38:33+12:00
-draft: true
+draft: false
 ---
 
 ## What is time tracking?

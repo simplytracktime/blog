@@ -1,7 +1,7 @@
 ---
 title: 'Time 12'
 date: 2023-04-10T21:39:21+12:00
-draft: true
+draft: false
 ---
 
 ## Static theory of time

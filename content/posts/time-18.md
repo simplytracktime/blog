@@ -1,7 +1,7 @@
 ---
 title: 'Time 18'
 date: 2023-05-20T21:39:43+12:00
-draft: true
+draft: false
 ---
 
 ## Freedom

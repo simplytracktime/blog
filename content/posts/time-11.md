@@ -1,7 +1,7 @@
 ---
 title: 'Time 11'
 date: 2023-04-03T21:39:18+12:00
-draft: true
+draft: false
 ---
 
 ## Parkinson's law

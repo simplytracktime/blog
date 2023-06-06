@@ -1,7 +1,7 @@
 ---
 title: 'Time 17'
 date: 2023-05-14T21:39:40+12:00
-draft: true
+draft: false
 ---
 
 ## Priority matrix
