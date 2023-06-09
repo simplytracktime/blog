@@ -1,10 +1,8 @@
 ---
-title: 'Time 5'
+title: 'Routine'
 date: 2023-02-14T21:38:59+12:00
 draft: false
 ---
-
-## Routine
 
 A routine is a conscious way of doing things in a repetitive and specific order. Most often, routines are made up of several habits combined to reach a goal. A study published by the National Centre for Biotechnology Information found that good daily habits early on in life lead to a successful life. In contrast, bad habits often lead to negative behaviour, such as dropping out of school.
 

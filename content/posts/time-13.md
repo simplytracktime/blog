@@ -1,10 +1,8 @@
 ---
-title: 'Time 13'
+title: 'Diary'
 date: 2023-04-16T21:39:24+12:00
 draft: false
 ---
-
-## Diary
 
 There are many benefits to keeping a diary, especially in terms of your mental health and keeping track of time. To futher explain the benefits here are six things which are benefical about keeping a diary or journal.
 

@@ -1,10 +1,8 @@
 ---
-title: 'Time 6'
+title: 'Creative people'
 date: 2023-02-27T21:39:02+12:00
 draft: false
 ---
-
-## Creative people
 
 Time management for people working in creative fields can take more work. This difficulty comes from many places; some reasons could be that they are doing lots but often do not want what they want to be doing or what they count as work—creatives (people working in creative fields, e.g. writers, artists etc.). Performing on big projects that do not have deadlines and are very unstructured can also contribute to their difficulty tracking time. Also, no definitive rewards often wait until the end of the large projects, so there is nothing to work towards; instead, you need pure motivation.
 

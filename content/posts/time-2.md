@@ -1,10 +1,8 @@
 ---
-title: 'Time 2'
+title: 'Working'
 date: 2023-02-23T21:38:37+12:00
 draft: false
 ---
-
-## Working
 
 During this university break, I was fortunate enough to get a job working 9-5. The change in schedule from having hour-long lectures and tutorials to an eight-hour workday, where you are working non-stop, was a hard mental shift to make. I was more productive being able to manage my time in a university schedule. Compared to performing this job, there are many moments in a day when I daze off and completely lose focus.
 

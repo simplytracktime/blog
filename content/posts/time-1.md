@@ -1,10 +1,8 @@
 ---
-title: 'Time 1'
+title: 'What is time tracking?'
 date: 2023-02-14T21:38:33+12:00
 draft: false
 ---
-
-## What is time tracking?
 
 What is time tracking? In many scenarios, it is the process of employers logging the hours employees have worked to compensate them correctly and to ensure they are using their time appropriately. An example of this is a time sheet.
 

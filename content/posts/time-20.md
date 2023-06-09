@@ -1,10 +1,8 @@
 ---
-title: 'Time 20'
+title: 'Multitasking'
 date: 2023-06-06T21:21:13+12:00
 draft: false
 ---
-
-## Multitasking
 
 _In_ today's fast-paced world, it's tempting to tackle multiple tasks simultaneously. After all, if we can accomplish numerous things simultaneously, we'll be more productive, right? Unfortunately, that's not necessarily the case. In fact, multitasking can actually hurt your time management skills and make you less productive overall.
 

@@ -1,10 +1,8 @@
 ---
-title: 'Time 18'
+title: 'Freedom'
 date: 2023-05-20T21:39:43+12:00
 draft: false
 ---
-
-## Freedom
 
 Going from a highly structured environment like high school or even full time work to university where almost everything is self-motivated (especially with the shift to having recorded lectures) can be a difficult one for many people. So making this change successfully and finding ways to keep your motivation to study up (even when you just want to watch TikTok in bed) takes a lot of effort. But having some easy methods to fall back on that you know work every time for you is going to help a lot.
 

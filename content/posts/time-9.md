@@ -1,10 +1,8 @@
 ---
-title: 'Time 9'
+title: 'Scheduling'
 date: 2023-03-18T21:39:13+12:00
 draft: false
 ---
-
-## Scheduling
 
 Scheduling and planning are two terms often used in time management; however, these two terms can be confused easily. Planning primarily refers to what and how much must be done, whereas scheduling refers to when operations will be performed and by whom. While they are both different processes, understanding the differences and what makes each term itself helps ensure more efficiency in your time productivity in all situations.
 

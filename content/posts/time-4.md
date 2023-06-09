@@ -1,10 +1,8 @@
 ---
-title: 'Time 4'
+title: 'Treating uni like a 9-5'
 date: 2023-02-14T21:38:56+12:00
 draft: false
 ---
-
-## Treating uni like a 9-5.
 
 A way of approaching university that many people promote is treating it like a 9-5 job. A full course load at university amounts to 45 hours a week, equating to a full-time job. Even though you can avoid doing most of this work (I know I could improve at finishing all of my readings), you should still spend the time.
 

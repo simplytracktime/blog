@@ -1,10 +1,8 @@
 ---
-title: 'Time 16'
+title: 'Eat the frogs first'
 date: 2023-05-01T21:39:36+12:00
 draft: false
 ---
-
-## Eat the frogs first
 
 Mark Twain once said that if you have to eat a frog, do it first thing and nothing worse will happen for the rest of the day.
 

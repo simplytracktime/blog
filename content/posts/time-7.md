@@ -1,10 +1,8 @@
 ---
-title: 'Time 7'
+title: 'The physics of time.'
 date: 2023-03-06T21:39:07+12:00
 draft: false
 ---
-
-## The physics of time.
 
 What is time? Looking into a definition of time, we end up with the answer that time is “the progression of events from the past to the present into the future.” (this is the definition provided by physicists.) Some consider it to be a sort of fourth dimension of our reality. While we can not sense it through touch, smell, or taste, we can measure that time has passed. And as we all know, the clock cannot be rewound, so it is an ever-present forward marching concept.
 

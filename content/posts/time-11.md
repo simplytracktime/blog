@@ -1,10 +1,8 @@
 ---
-title: 'Time 11'
+title: 'Parkinsons law'
 date: 2023-04-03T21:39:18+12:00
 draft: false
 ---
-
-## Parkinson's law
 
 You may have noticed when completing tasks that it amounts to the time you are given. If you have three hours to write three articles in an exam or three hours to write one article, it will take you all three hours to finish that task. This theory is called Parkinson’s law. Cyril Northcote Parkinson first coined it in an essay for The Economist in 1955. In his essay, he refers to a woman writing a postcard, a task that would take the average person 10 minutes; instead, this woman manages to drag the job out to become her day's work. She spends so long choosing the postcard, writing out her message, walking to the postbox and so on that this ordinary task takes much longer than it needs to.
 

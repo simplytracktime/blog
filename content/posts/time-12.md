@@ -1,12 +1,10 @@
 ---
-title: 'Time 12'
+title: 'A tale of two theories (of time)'
 date: 2023-04-10T21:39:21+12:00
 draft: false
 ---
 
-## Static theory of time
-
-The static theory of time and the dynamic theory of time are two different theories as to how time works. According to the static theory, time is similar to space, and the passage of time does not exist. Whereas the dynamic theory believes time is very different from space and that the passage of time is actual. Clearly, these two theories are opposing.
+The **static** theory of time and the **dynamic** theory of time are two different theories as to how time works. According to the static theory, time is similar to space, and the passage of time does not exist. Whereas the dynamic theory believes time is very different from space and that the passage of time is actual. Clearly, these two theories are opposing.
 
 It is essential to understand the differences in-depth between these two theories. So five important factors of each theory will be discussed.
 

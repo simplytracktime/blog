@@ -1,10 +1,8 @@
 ---
-title: 'Time 10'
+title: 'Teenager'
 date: 2023-06-06T21:39:16+12:00
 draft: false
 ---
-
-## Teenager
 
 With so much going on in your life as a teenager, it can be hard to have a healthy schedule and good time management habits, so here are seven tips to help keep your life on track.
 

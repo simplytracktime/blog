@@ -1,10 +1,8 @@
 ---
-title: 'Time 15'
+title: 'Apps that help'
 date: 2023-04-30T21:39:33+12:00
 draft: false
 ---
-
-## Applications
 
 There are lots of great time management apps out there. These can be a small addition to your everyday life which will help you manage your time better. The apps are great for university students in particular but can be suitable for anyone.
 

@@ -1,10 +1,8 @@
 ---
-title: 'Time 14'
+title: 'Planning'
 date: 2023-04-23T21:39:27+12:00
 draft: false
 ---
-
-## Planning
 
 Planning is a highly important skill to have, it can benefit your quality of life in many ways. Having a solid planning method is a way to ensure that your plans will be as good as they can be because, as we all know, plans do not always work out.
 

@@ -1,10 +1,8 @@
 ---
-title: 'Time 17'
+title: 'Priority matrix'
 date: 2023-05-14T21:39:40+12:00
 draft: false
 ---
-
-## Priority matrix
 
 Priority Matrix is a customisable tool you can use to identify critical tasks or projects. It can range in simplicity from a simple chart that contrasts urgency and importance to a much more complex grid that will look at many different criteria. The matrix is the most effective when used to rank upcoming projects. Because it is customisable you can choose criteria that are better suited to your needs, as everyone is different.
 

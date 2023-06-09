@@ -1,4 +1,7 @@
 baseURL = 'http://blog.simplytracktime.com/'
 languageCode = 'en-us'
-title = 'Simply Track Time'
+title = 'A blog about time'
 theme = 'ananke'
+
+[params]
+  site_logo = "images/logo.jpg"

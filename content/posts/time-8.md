@@ -1,10 +1,8 @@
 ---
-title: 'Time 8'
+title: 'Getting things done'
 date: 2023-03-12T21:39:10+12:00
 draft: false
 ---
-
-## Getting things done
 
 The getting things done method is a productivity system. The system was developed and explained in David Allen's book “Getting Things Done”. It is a time and productivity management system to help people de-stress their busy lives. It uses calendars and lists to implement the new method, making your life less stressful.
 
