@@ -7,4 +7,5 @@ theme = 'm10c'
 
 [params]
   site_logo = "images/logo.jpg"
+  avatar = "images/logo.jpg"
   description = "Investigating ways to achieve the best return on time invested."
