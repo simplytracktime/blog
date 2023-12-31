@@ -1,7 +1,10 @@
 baseURL = 'https://blog.simplytracktime.com/'
 languageCode = 'en-us'
-title = 'A blog about time'
+title = "It's about time"
 theme = 'm10c'
+
+
 
 [params]
   site_logo = "images/logo.jpg"
+  description = "Investigating ways to achieve the best return on time invested."
