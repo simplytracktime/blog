@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A blog about time</title>
-    <link>https://blog.simplytracktime.com/</link>
-    <description>Recent content on A blog about time</description>
+    <title>Posts on A blog about time</title>
+    <link>https://blog.simplytracktime.com/posts/</link>
+    <description>Recent content in Posts on A blog about time</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Nov 2023 21:21:13 +1200</lastBuildDate>
-    <atom:link href="https://blog.simplytracktime.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.simplytracktime.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Holidays!</title>
       <link>https://blog.simplytracktime.com/posts/time-42/</link>
