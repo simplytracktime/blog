@@ -1,2 +1,19 @@
-.hugo_build.lock
+# Hugo build output
 /public/
+/resources/_gen/
+
+# Hugo binary downloads
+hugo.deb
+hugo_*.deb
+
+# Temporary files
+.hugo_build.lock
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
