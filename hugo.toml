@@ -1,11 +1,20 @@
 baseURL = 'https://blog.simplytracktime.com/'
 languageCode = 'en-us'
-title = "It's about time"
-theme = 'm10c'
+title = "Simply Track Time"
+theme = 'hugo-theme-cleanwhite'
+preserveTaxonomyNames = true
 
+[pagination]
+  pagerSize = 5
 
+[outputs]
+home = ["HTML", "RSS"]
 
 [params]
-  site_logo = "images/logo.jpg"
-  avatar = "images/logo.jpg"
+  header_image = "img/river.png"
+  site_logo = "img/logo.jpg"
+  avatar = "img/logo.jpg"
   description = "Investigating ways to achieve the best return on time invested."
+  upstreamAttribution = true
+  last_posts = true
+
