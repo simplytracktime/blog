@@ -15,6 +15,6 @@ home = ["HTML", "RSS"]
   site_logo = "img/logo.jpg"
   avatar = "img/logo.jpg"
   description = "Investigating ways to achieve the best return on time invested."
-  upstreamAttribution = true
+  upstreamAttribution = false
   last_posts = true
 
