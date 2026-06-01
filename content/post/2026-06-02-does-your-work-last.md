@@ -4,7 +4,7 @@ date: 2026-06-01T21:21:13+12:00
 draft: true
 ---
 
-A talk, [Building the Hundred-Year Web Service](https://unplannedobsolescence.com/talks/building-the-hundred-year-web-service/), Alex Petros, 2024, has inspired me to think about the work that I have been doing over the last 30 years. The tldr; I took from the talk is a question we need to ask when building something,( actually anything) is "What is the maintainable life of this going to be?".
+The talk, [Building the Hundred-Year Web Service](https://unplannedobsolescence.com/talks/building-the-hundred-year-web-service/) by Alex Petros, 2024, has inspired me to think about the work that I have been doing over the last 30 years. The tldr; I took from the talk is a question we need to ask when building something, (actually anything) is "What is the maintainable life of this going to be?".
 
 Alex Petros the uses a bridge to demonstrate product requirements that can be adapted to unimaginable uses, a bridge designed to carry foot traffic is now carrying motor vehicles, I reckon the built environment can also be used when discussing something as mundane as maintenance.
 
